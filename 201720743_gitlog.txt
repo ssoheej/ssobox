@@ -1,0 +1,18 @@
+commit 2cc04c3ca7f10cf74388f4f2d510e4d4aba22e0d
+Author: jeong sohee <sohee@DESKTOP-F4FNUUF.localdomain>
+Date:   Mon Oct 1 20:12:57 2018 +0900
+
+    add README.md
+commit 2cc04c3ca7f10cf74388f4f2d510e4d4aba22e0d
+Author: jeong sohee <sohee@DESKTOP-F4FNUUF.localdomain>
+Date:   Mon Oct 1 20:12:57 2018 +0900
+
+    add README.md
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..8636f12
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# ssobox
